@@ -16,3 +16,9 @@ Online Smart Test is a software built with Java Swing, and Its Automated With Ad
 * Dynamic Student Report
 * Database Backup
 * Message Pull Interaction with Students
+# Mode Of Usage:
+* Schools.
+* Organisation.
+* Tutorial Centers.
+
+# Still Due For Improvement
